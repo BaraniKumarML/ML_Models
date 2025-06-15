@@ -1,0 +1,51 @@
+plane_number,source,destination,duration_hours,is_direct,num_stops,stop_locations,departure_time,arrival_time,stop_duration
+SQ936,Paris,Berlin,7,True,0,,01:15,08:15,0h
+JL723,London,Sydney,5,False,2,"Dubai, New York",22:45,07:45,4h
+JL472,Berlin,Sydney,16,False,1,Tokyo,23:15,16:15,1h
+EK311,Mumbai,Tokyo,7,True,0,,23:30,06:30,0h
+AF515,New York,Mumbai,11,True,0,,07:30,18:30,0h
+AI937,Berlin,Singapore,15,False,2,"Toronto, London",18:30,11:30,2h
+LH766,Singapore,Toronto,2,False,1,Tokyo,20:15,00:15,2h
+QF729,Sydney,New York,6,False,2,"Toronto, Tokyo",02:00,12:00,4h
+AF947,Sydney,New York,14,True,0,,10:00,00:00,0h
+JL947,Dubai,New York,10,False,1,Mumbai,03:45,14:45,1h
+AC223,Tokyo,London,14,False,1,Mumbai,05:45,21:45,2h
+SQ742,Mumbai,London,15,True,0,,15:15,06:15,0h
+QF521,London,Toronto,12,False,1,Singapore,21:45,11:45,2h
+SQ331,London,Toronto,5,False,2,"Singapore, Tokyo",08:30,17:30,4h
+AF230,Mumbai,Sydney,10,False,2,"Tokyo, Berlin",10:45,00:45,4h
+AI760,Toronto,Mumbai,4,True,0,,00:30,04:30,0h
+EK916,New York,Tokyo,14,True,0,,09:45,23:45,0h
+AC921,Dubai,Berlin,10,True,0,,03:45,13:45,0h
+JL516,London,Tokyo,16,False,1,New York,12:15,05:15,1h
+AI902,Singapore,Paris,13,False,1,London,18:45,09:45,2h
+AC392,London,Dubai,8,False,2,"Singapore, New York",14:45,00:45,2h
+LH114,Toronto,Mumbai,10,True,0,,10:30,20:30,0h
+AI390,Tokyo,Toronto,2,True,0,,13:00,15:00,0h
+QF303,Tokyo,New York,2,False,2,"London, Singapore",13:45,19:45,4h
+AI827,Sydney,Mumbai,9,True,0,,12:45,21:45,0h
+JL169,Paris,Sydney,5,True,0,,11:45,16:45,0h
+AC859,Dubai,Tokyo,7,False,2,"Singapore, Sydney",21:45,06:45,2h
+JL492,Toronto,Paris,7,True,0,,07:00,14:00,0h
+EK441,Mumbai,Paris,10,False,2,"Toronto, Berlin",21:45,11:45,4h
+JL844,London,New York,3,True,0,,10:45,13:45,0h
+AF521,Toronto,Dubai,3,False,2,"New York, Paris",09:45,14:45,2h
+QF678,Sydney,Berlin,15,False,1,Paris,23:00,16:00,2h
+BA218,Dubai,Tokyo,9,True,0,,09:15,18:15,0h
+AF351,Sydney,Tokyo,2,True,0,,21:30,23:30,0h
+JL210,Dubai,Paris,3,True,0,,23:00,02:00,0h
+SQ867,New York,Paris,13,True,0,,03:45,16:45,0h
+AI898,London,Berlin,11,False,2,"Toronto, Dubai",05:45,18:45,2h
+QF429,Singapore,Toronto,14,False,1,New York,09:15,01:15,2h
+JL885,Singapore,Mumbai,5,False,1,Toronto,16:15,23:15,2h
+QF958,Tokyo,Dubai,14,True,0,,17:30,07:30,0h
+LH807,Tokyo,Singapore,14,True,0,,11:45,01:45,0h
+QF747,New York,Sydney,11,False,2,"Mumbai, Singapore",20:15,09:15,2h
+BA770,Sydney,New York,12,True,0,,18:30,06:30,0h
+BA130,Tokyo,London,11,False,2,"Paris, Dubai",10:15,23:15,2h
+LH152,Berlin,Paris,11,False,1,London,08:00,21:00,2h
+AC110,Berlin,Mumbai,7,True,0,,19:00,02:00,0h
+QF597,Dubai,New York,13,True,0,,01:00,14:00,0h
+AI739,Tokyo,Dubai,15,False,2,"Toronto, New York",10:00,05:00,4h
+EK789,New York,Singapore,9,True,0,,12:15,21:15,0h
+BA356,Toronto,London,14,True,0,,16:45,06:45,0h
